@@ -1,0 +1,10 @@
+.hero {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  .hero-text {
+    background-color: aqua;
+  }
+  .hero-img {
+    background-color: blue;
+  }
+}
